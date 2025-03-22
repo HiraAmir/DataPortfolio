@@ -99,7 +99,7 @@ Skills Used:
 
 
 ## 🔥 More Projects Coming Soon!  
-Stay tuned for more Python and data visualization projects.  
+
 
 ---
 
