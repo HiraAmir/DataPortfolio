@@ -70,6 +70,34 @@ Skills Used:
 
 📎 [Excel File (With All Dashboards)](./CarSalesByModelEnd.xlsx)
 
+---
+
+🏆 Project 4: Montgomery Fleet Equipment Analysis  
+Description: 
+- Analyzed fleet equipment inventory data by department and equipment class.  
+- Created pivot tables to track equipment count and distribution across different departments and classes.  
+- Provided insights into department-wise and class-wise equipment ownership patterns.  
+
+Key Insights:  
+✔️ The Transportation department has the highest total equipment count (1,221).  
+✔️ Heavy Duty and Off-Road Vehicle Equipment are the most common equipment classes.  
+✔️ Liquor Control and Housing and Community Affairs also have significant equipment counts.  
+
+### Pivot Tables Created: 
+1. Total Equipment Count by Department → Highlights which departments have the highest equipment count.  
+2. Equipment Count by Department and Class→ Provides a detailed breakdown of equipment distribution.  
+3. Equipment Count by Class and Department → Analyzes how equipment is distributed across departments.  
+
+Skills Used:  
+✅ Data Cleaning  
+✅ Pivot Tables  
+✅ Data Aggregation  
+✅ Conditional Formatting  
+✅ Performance Analysis  
+
+📎 [Excel File (With All Pivot Tables)](./Montgomery_Fleet_Equipment_Analysis.xlsx) 
+
+
 ## 🔥 More Projects Coming Soon!  
 Stay tuned for more Python and data visualization projects.  
 
