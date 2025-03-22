@@ -44,6 +44,31 @@ Skills Used:
 📎 [Full Report (PDF)](./IBMCognosDashboards.pdf)
 
 ---
+🏆 Project 3: Excel Car Sales Analysis  
+Description: 
+- Analyzed car sales data to uncover trends in model performance and profitability.  
+- Created multiple dynamic dashboards using pivot tables and charts to visualize trends.  
+- Applied conditional formatting to highlight top-performing models and dealers.  
+
+Key Insights: 
+✔️ Highest sales were recorded in Hudson and Salish models.  
+✔️ Dealer 1224 consistently generated the highest profit.  
+✔️ Most sales occurred in January and July across all models.  
+
+### Dashboards Created:  
+1. Quantity Sold by Dealer → Displays the total quantity sold by each dealer using a bar chart.  
+2. Profit by Date and Model → Line chart showing profit trends over time for each car model.  
+3. Profit by Year and Dealer ID → Bar chart comparing yearly profit performance for different dealers.  
+4. Profit of Hudson Models by Dealer ID → Line chart highlighting profitability trends for Hudson models by dealer.  
+
+Skills Used:  
+✅ Data Cleaning  
+✅ Pivot Tables  
+✅ Data Aggregation  
+✅ Conditional Formatting  
+✅ Performance Analysis  
+
+📎 [Excel File (With All Dashboards)](./CarSalesByModelEnd.xlsx)
 
 ## 🔥 More Projects Coming Soon!  
 Stay tuned for more Python and data visualization projects.  
