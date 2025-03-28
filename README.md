@@ -1,5 +1,5 @@
 🚀 Data Analyst Portfolio  
-Welcome to my portfolio! This repository contains projects demonstrating my data analysis skills using SQL, Python, and data visualization tools.  
+Welcome to my portfolio! This repository contains projects demonstrating my data analysis skills using SQL, and data visualization tools.  
 
 ---
 
