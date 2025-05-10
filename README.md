@@ -3,7 +3,7 @@ Welcome to my portfolio! This repository contains projects demonstrating my data
 
 ---
 
-🏆 Project 1: SQL Film Data Analysis  
+🏆 Project: SQL Film Data Analysis  
 Description:
 - Analyzed a film rental dataset using SQL to uncover patterns in replacement costs, customer behavior, and film performance.  
 - Cleaned and structured raw data using joins, aggregation, and subqueries.  
@@ -24,7 +24,7 @@ Skills Used:
 
 ---
 
-🏆 Project 2: IBM Cognos Sales and Recall Analysis  
+🏆 Project: IBM Cognos Sales and Recall Analysis  
 Description: 
 - Created interactive dashboards using IBM Cognos to analyze sales, recalls, and sentiment data.  
 - Integrated multiple data sources and applied filters and dynamic visualizations.  
@@ -44,7 +44,7 @@ Skills Used:
 📎 [Full Report (PDF)](./IBMCognosDashboards.pdf)
 
 ---
-🏆 Project 3: Excel Car Sales Analysis  
+🏆 Project: Excel Car Sales Analysis  
 Description: 
 - Analyzed car sales data to uncover trends in model performance and profitability.  
 - Created multiple dynamic dashboards using pivot tables and charts to visualize trends.  
@@ -72,7 +72,7 @@ Skills Used:
 
 ---
 
-🏆 Project 4: Montgomery Fleet Equipment Analysis  
+🏆 Project: Montgomery Fleet Equipment Analysis  
 Description: 
 - Analyzed fleet equipment inventory data by department and equipment class.  
 - Created pivot tables to track equipment count and distribution across different departments and classes.  
@@ -96,6 +96,34 @@ Skills Used:
 ✅ Performance Analysis  
 
 📎 [Excel File (With All Pivot Tables)](./Montgomery_Fleet_Equipment_Analysis.xlsx) 
+
+🏆 Project: QuickSight Interactive Sales & HR Dashboards  
+**Description:**  
+Built two end-to-end Amazon QuickSight dashboards to turn raw data into actionable insights:  
+
+- **Interactive Sales Report** :  
+  - **KPIs:** Total Sales 55.40 M, Total Profit 31.59 M, Average Sales 3,693.06, Average Profit 2,106, Products 1,638  
+  - **Charts & Insights:**  
+    - Top 10 Countries by Sales (US, China, Germany…)  
+    - Profit by Region & Channel (North America, Europe, Asia × Catalog, Online, Reseller, Store)  
+    - Profit Trend over Time (Jun 2016 – Jun 2019)  
+    - Profit by Product Category & Region + % of Total Sales by Category & Channel  
+    - Top 3/Bottom 3 Product Sub-Category for Total Sales  
+
+- **Human Resource Dashboard** :  
+  - **Tables & Metrics:**  
+    - Sum of Training Cost & Course Count per Employee  
+    - Total Cost by Department (HR, Sales, Production, Finance, Logistics)  
+    - Employee Count by Job Grade & by Gender  
+
+**Skills Used:**  
+✅ Amazon QuickSight (KPI cards, filters, parameters, ranking insights)  
+✅ Dashboard design & layout  
+✅ Time-series & geospatial analysis  
+✅ Dynamic Top N/Bottom N insights  
+
+📎 QuickSight dashboards (PDF): [Download full report](QuicksightWork.pdf)
+
 
 
 ## 🔥 More Projects Coming Soon!  
