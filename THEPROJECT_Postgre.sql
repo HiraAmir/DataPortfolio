@@ -1,4 +1,4 @@
--- Title: SQL Project – Film Data Analysis
+-- Title: PostgreSQL Project – Film Data Analysis
 -- Description:
 -- This project analyzes a film rental dataset to generate insights into costs, performance, and customer behavior.
 -- It involves tasks such as grouping, aggregation, filtering, and joins to extract meaningful insights from the data.
