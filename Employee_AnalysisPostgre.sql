@@ -1,5 +1,5 @@
 -- Project: PostgreSQL Employee Analysis
--- Author: [Your Name]
+-- Author: Hira Amir
 -- Description: Full-stack SQL project covering data modeling, constraints, inserts, updates, views, aggregations, and advanced window functions.
 -- =======================================================================
 
