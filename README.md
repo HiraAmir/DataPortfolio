@@ -1,4 +1,4 @@
-# 🚀 Data Analyst Portfolio
+# 🚀 Analyst Portfolio
 
 Welcome to my portfolio! This repository showcases a collection of data analysis projects using SQL and various data visualization tools. Each project demonstrates practical problem-solving and business insight generation.
 
